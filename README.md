@@ -80,6 +80,8 @@ The project includes:
 ## 📥 Power BI Dashboard File
 [Download PBIX Dashboard File](https://drive.google.com/file/d/1EjVhJyQRySIPrV0E-g7BYCMBGlsEvgfA/view?usp=drive_link)
 ---
+## 🔗 SQL Project Repository
+[View SQL Analysis Project](https://github.com/akashannaram/olist-ecommerce-sql-analysis)
 
 # 👨‍💻 Author
 **Akash Annaram**
